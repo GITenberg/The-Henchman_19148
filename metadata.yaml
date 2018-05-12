@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8504'
     url: http://www.gutenberg.org/2009/agents/8504
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19148#The-Henchman
 gutenberg_issued: '2006-08-31'
 gutenberg_type: Text
 identifiers:
